@@ -1,0 +1,5 @@
+Lista de vídeos/tutoriais para se aprofundar em Versionamento com GitHub
+
+- https://www.youtube.com/watch?v=DqTITcMq68k (Rafaella Ballerini)
+- https://www.youtube.com/watch?v=P9xXbEhqhqA (Attekita Dev)
+- https://www.youtube.com/watch?v=NgoJVtaptmM (DevBandeira)
